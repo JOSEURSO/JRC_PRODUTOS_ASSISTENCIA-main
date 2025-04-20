@@ -238,18 +238,7 @@ sup{
 
 
 
-  button {
-    height: 40px;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    border-radius: 8px;
-    padding: 8px;
-    font-size: 1.1rem;
-    color: #000;
-    cursor: pointer;
-    transition: all .25s ease-in-out;
-  }
+ 
   .label {
     display: flex;
     align-items: center;
@@ -340,10 +329,11 @@ a button{
   width: 60%;
   color: white;
   background-color:blue;
-  border-radius: 5%;
+  border-radius: 25%;
   text-align: center;
   
 }
+
 
 
 
