@@ -20,6 +20,12 @@ html,body {
   overflow: hidden;
 }
 
+h8{
+  color: #0066ff;
+  font-size: 13px;
+  font-weight: bold;
+}
+
 .image-container {
   display: flex;
   transform: translateX(0);
